@@ -1,2 +1,2 @@
 # titanicLosgisticRegression
-https://snehalogr.streamlit.app/
+https://rutujalg.streamlit.app/
